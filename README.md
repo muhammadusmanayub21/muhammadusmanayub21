@@ -13,11 +13,11 @@
 - Cross-browser compatibility and performance optimization
 - Collaborative problem-solving and strong attention to detail
 
-🌱 Currently, I'm honing my skills in [WordPress development and angular development] and exploring modern front-end trends and best practices. I believe in continuous learning and staying up-to-date with the ever-evolving web technologies.
+🌱 Currently, I'm honing my skills in WordPress development and Angular development and exploring modern front-end trends and best practices. I believe in continuous learning and staying up-to-date with ever-evolving web technologies.
 
-📫 Let's connect! Feel free to contact me via email at [muhammadusmanayub21@gmail.com] or connect with me on LinkedIn [LinkedIn URL]. I'm open to new opportunities, collaborations, and discussing all things front-end development.
+📫 Let's connect! Feel free to contact me via email at [muhammadusmanayub21@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/muhammad-usman-ayub-77489b192/]. I'm open to new opportunities, collaborations, and discussing all things front-end development.
 
-🌐 Check out my portfolio at [portfolio URL] to see some of my projects and get a glimpse of my work.
+🌐 Check out my recent WordPress projects at [www.streamingtracker.com,contentlab74.de,https://maxicontainerstorage.co.uk/] to see some of my projects and get a glimpse of my work.
 
 🏆 Open to contributing to open-source projects and always excited about building meaningful digital experiences that make a difference.
 
