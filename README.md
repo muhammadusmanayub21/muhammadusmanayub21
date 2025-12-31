@@ -23,3 +23,5 @@
 
 ✨ Remember, every line of code is an opportunity to create something unique! Let's bring ideas to life through innovative web development.
 
+<a href="https://app.daily.dev/muhammadusmanayub21"><img src="https://api.daily.dev/devcards/v2/Zdp2Wf4OaJUMA3QcpLbj7.png?type=default&r=4wv" width="356" alt="Usman Ayub's Dev Card"/></a>
+
